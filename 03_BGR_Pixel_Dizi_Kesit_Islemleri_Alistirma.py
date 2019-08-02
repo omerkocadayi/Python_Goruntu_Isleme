@@ -8,7 +8,7 @@ def pencere_kapat():
     cv2.waitKey(0)
     cv2.destroyAllWindows()
     
-img = cv2.imread("C:/Users/omerkocadayi/Desktop/deneme.jpg")
+img = cv2.imread("C:/Users/omerkocadayi/Desktop/750x750.jpg")
 
 blue, green, red = cv2.split(img) #split metodu resmi bgr 3 renk kanalina ayirmaktadir.
                                   #tek kanalda islem yapmamız gerektiginde bu metodu uygulayabiliriz.
