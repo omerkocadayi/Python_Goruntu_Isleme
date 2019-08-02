@@ -14,7 +14,7 @@ def pencere_kapat():
     cv2.waitKey(0)
     cv2.destroyAllWindows()
 
-img = cv2.imread("C:/Users/omerkocadayi/Desktop/deneme.jpg")
+img = cv2.imread("C:/Users/omerkocadayi/Desktop/750x750.jpg")
 
 img_uzatma = cv2.copyMakeBorder(img,100,100,100,100, cv2.BORDER_REPLICATE) 
 
