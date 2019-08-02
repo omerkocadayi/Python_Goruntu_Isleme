@@ -11,7 +11,7 @@
 
 import cv2
 
-img = cv2.imread("C:/Users/omerkocadayi/Desktop/deneme.jpg")
+img = cv2.imread("C:/Users/omerkocadayi/Desktop/750x750.jpg")
 
 print("img.type : ",type(img)) #numpy.ndarray -> n dimensional(boyutlu) array
 
