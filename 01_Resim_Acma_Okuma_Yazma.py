@@ -3,12 +3,12 @@
 
 import cv2
 
-#img2 = cv2.imread("C:/Users/omerkocadayi/Desktop/deneme_siyah_beyaz.jpg")
-img = cv2.imread("C:/Users/omerkocadayi/Desktop/deneme.jpg",0)
+#img2 = cv2.imread("C:/Users/omerkocadayi/Desktop/750x750_siyah.jpg")
+img = cv2.imread("C:/Users/omerkocadayi/Desktop/750x750.jpg",0)
 """ resmi img degiskenine atadik. '0' parametresi direkt olarak siyah-beyaza gecis yapar
     print(type(img)) #->numpy.ndarray """
 
-cv2.imwrite("C:/Users/omerkocadayi/Desktop/deneme_siyah_beyaz.jpg", img)
+cv2.imwrite("C:/Users/omerkocadayi/Desktop/750x750_siyah.jpg", img)
 #img degiskeni siyah-beyaz olarak masaustune kaydedildi
 
 cv2.imshow("Deneme Resmi", img) #resim ekranda gosterildi
