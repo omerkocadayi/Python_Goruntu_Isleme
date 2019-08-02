@@ -17,9 +17,9 @@ print("img.type : ",type(img)) #numpy.ndarray -> n dimensional(boyutlu) array
 
 print("img.dtype : ",img.dtype) #resmin data tipi -> uint8 -> 8 bitten olusuyor. bu yuzden max 255 degerini alabiliyor.
 
-print("img.shape : ",img.shape) #(genislik,yukseklik,renk kanali sayisi) seklinde cikti verir.
+print("img.shape : ",img.shape) #(yukseklik,genislik,renk kanali sayisi) seklinde cikti verir.
 
-print("img.size : ",img.size) #(genislik * yukseklik * renk kanali) -> resmin kac pikselden olustugunu yazdirir.
+print("img.size : ",img.size) #(yukseklik * genislik * renk kanali) -> resmin kac pikselden olustugunu yazdirir.
 
 #print("img matrisi : ",img) #komutuyla; resmimizin BGR(0-255) karsiliklarini matris seklinde gormekteyiz.
 
