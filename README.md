@@ -4,7 +4,7 @@ Giriş Seviyesi Örnekler : 01 - 08 arası
 - Resim Açma - Resim Okuma - Resim Yazma
 - BGR ve Pixel Mantığı Uygulamaları
 - Resim Aynalama, Tekrarlama, Uzatma, Alan Seçme vs.
-- Ağırlıklı Toplama - Aritmetik İşlemler
+- Ağırlıklı Toplama - Maskeleme - Aritmetik İşlemler
 - Görüntü Piramitleri
 - Line, Circle, Text
 
