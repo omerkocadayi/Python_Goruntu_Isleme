@@ -19,7 +19,7 @@ print("[175,250] pikselleri icin\n\n"
     metodunu kullanacagiz. toplam degeri 255in uzerine cikan bolumlerde
     tam doygun noktayi, yani 255'i yazacagiz.
     
-    print ciktilarini dogru inceleyebilmeniz icin 06_600x400 ve 06_600x400_2
+    print ciktilarini dogru inceleyebilmeniz icin 05_600x400 ve 05_600x400_2
     isimli gorselleri indirerek calismalariniza devam etmenizi oneririm."""
   
 toplam = cv2.add(img,img2)    
