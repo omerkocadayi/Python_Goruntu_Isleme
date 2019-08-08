@@ -1,6 +1,6 @@
 Giriş Seviyesinden İleri Seviyeye Kadar Python ile Görüntü İşleme..
 
-Giriş Seviyesi Örnekler : 01 - 08 arası
+Giriş Seviyesi Örnekler : 01 - 02 ...... 08
 - Resim Açma - Resim Okuma - Resim Yazma
 - BGR ve Pixel Mantığı Uygulamaları
 - Resim Aynalama, Tekrarlama, Uzatma, Alan Seçme vs.
