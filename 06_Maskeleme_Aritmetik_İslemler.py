@@ -11,8 +11,8 @@ def pencere_kapat():
     cv2.destroyAllWindows()
     
 def main():
-    img = cv2.imread("C:/Users/omerkocadayi/Desktop/06_zongi.jpg")
-    img2 = cv2.imread("C:/Users/omerkocadayi/Desktop/06_batman.jpg")
+    img = cv2.imread("06_zongi.jpg")
+    img2 = cv2.imread("06_batman.jpg")
     bat_gri = cv2.cvtColor(img2, cv2.COLOR_BGR2GRAY)
     
     cv2.imshow("Zongi",img)
