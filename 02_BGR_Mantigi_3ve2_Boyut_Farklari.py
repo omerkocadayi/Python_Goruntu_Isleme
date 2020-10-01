@@ -11,7 +11,7 @@
 
 import cv2
 
-img = cv2.imread("C:/Users/omerkocadayi/Desktop/750x750.jpg")
+img = cv2.imread("750x750.jpg")
 
 print("img.type : ",type(img)) #numpy.ndarray -> n dimensional(boyutlu) array
 
@@ -33,7 +33,7 @@ print("img.size : ",img.size) #(yukseklik * genislik * renk kanali) -> resmin ka
     KONTROL EDINIZ.
 """
 
-img2 = cv2.imread("C:/Users/omerkocadayi/Desktop/deneme.jpg",0)
+img2 = cv2.imread("deneme.jpg",0)
 
 print("img.type (siyah-beyaz) : ",type(img2))
 
