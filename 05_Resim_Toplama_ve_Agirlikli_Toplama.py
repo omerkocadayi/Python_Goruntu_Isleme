@@ -4,8 +4,8 @@
 
 import cv2
 
-img = cv2.imread("C:/Users/omerkocadayi/Desktop/05_600x400.jpg")
-img2 = cv2.imread("C:/Users/omerkocadayi/Desktop/05_600x400_2.jpg")
+img = cv2.imread("05_600x400.jpg")
+img2 = cv2.imread("05_600x400_2.jpg")
 
 print("[175,250] pikselleri icin\n\n"
       "img\t: ",img[175,250],"\nimg2\t: ",img2[175,250],
