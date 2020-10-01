@@ -8,7 +8,7 @@
 import cv2
 import numpy as np
 
-img = cv2.imread("C:/Users/omerkocadayi/Desktop/06_zongi.jpg")
+img = cv2.imread("06_zongi.jpg")
 
 buyuk_img = cv2.pyrUp(img)     #resmi 2 kat buyuttuk
 kucuk_img = cv2.pyrDown(img)  #resmi 2 kat kuculttuk
