@@ -1,5 +1,8 @@
-# -*- coding: utf-8 -*-
-"""@author: omerkocadayi"""
+""" -*- coding: utf-8 -*-
+    @author: omerkocadayi 
+    https://github.com/omerkocadayi
+    https://www.linkedin.com/in/omerkocadayi/ """
+
 """ goruntu alirken nesnelerin uzaklik-yakinliklarina gore
     o anki kapladigi alan, piksel degerleri degisebilmektedir.
     daha rahat islem yapabilmek adina resimleri buyutmek,kucultmek,
