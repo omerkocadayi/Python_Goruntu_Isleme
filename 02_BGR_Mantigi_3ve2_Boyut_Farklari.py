@@ -1,5 +1,8 @@
-# -*- coding: utf-8 -*-
-"""@author: omerkocadayi"""
+""" -*- coding: utf-8 -*-
+    @author: omerkocadayi 
+    https://github.com/omerkocadayi
+    https://www.linkedin.com/in/omerkocadayi/ """
+
 """ 
     RGB (Red,Green,Blue) olarak bildigimiz renk kanalları
     OpenCV mantiginda BGR (Blue,Green,Red) olarak calismaktadir.
