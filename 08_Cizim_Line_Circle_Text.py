@@ -13,6 +13,14 @@ def main():
     cv2.circle(img, (400,100), 50, (30,200,30), 2)
     #merkez : 400:100 , yaricap : 50 degerlerinde cember cizimi
     
+    cv2.rectangle(img, (10,10), (50,50), (0,255,0), thickness=-1)
+    cv2.rectangle(img, (400,350), (480,480), (0,255,0), thickness=-1)
+    #dikdörtgen cizimleri
+    
+    pts = np.array([[[100, 200], [300, 250], [230, 420], [400,100]]], np.int32)
+    cv2.polylines(img, [pts], True, (0,50,0), 2)
+    #cokgen cizimleri
+    
     cv2.putText(img, "OmerKocadayi_GoruntuIsleme", (75,400), cv2.FONT_HERSHEY_COMPLEX_SMALL, 1, (255,50,50), 1)
     #baslangic : 75:400, yazi_tipi:HERSHEY_COMPLEX_SMALL, boyut:1, renk (255,50,50), kalinlik 1
     
