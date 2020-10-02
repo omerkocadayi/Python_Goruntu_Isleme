@@ -1,4 +1,7 @@
-"""@author: omerkocadayi"""
+""" -*- coding: utf-8 -*-
+    @author: omerkocadayi 
+    https://github.com/omerkocadayi
+    https://www.linkedin.com/in/omerkocadayi/ """
 
 import cv2
 import numpy as np
