@@ -1,5 +1,8 @@
-# -*- coding: utf-8 -*-
-"""@author: omerkocadayi"""
+""" -*- coding: utf-8 -*-
+    @author: omerkocadayi 
+    https://github.com/omerkocadayi
+    https://www.linkedin.com/in/omerkocadayi/ """
+
 """ Kodu; paylasmis oldugum 06_zongi.jpg ve 06_batman.jpg ile birlikte calistirin.
     Maskeleme isleminin anlasilmasi acisindan sizin adiniza iyi olacaktir.
     pencere ciktilarini adim adim incelemek istiyorsaniz yorum satırlarını aktif
