@@ -10,7 +10,7 @@ Giriş Seviyesi Örnekler : 01 - 02 ...... 08
 
 Orta Seviye Örnekler : 
 - Video Kameradan Anlık Görüntü Alma
-- Video Boyutlandırma - Gri Ton
+- Anlık Video Renk Uzayı Değiştirme / Gri Ton
 - Video Kaydetme, Döndürme
 - Renk Ayırt Etme, Renk Filtreleme
 - Morfolojik Filtreleme
