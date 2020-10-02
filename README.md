@@ -11,7 +11,7 @@ Giriş Seviyesi Örnekler : 01 - 02 ...... 08
 Orta Seviye Örnekler : 
 - Video Kameradan Anlık Görüntü Alma
 - Anlık Video Renk Uzayı Değiştirme / Gri Ton
-- Video Kaydetme, Döndürme
+- HSV Kodu Bulma - Trackbar
 - Renk Ayırt Etme, Renk Filtreleme
 - Morfolojik Filtreleme
 - Arka Plan Filtreleme
