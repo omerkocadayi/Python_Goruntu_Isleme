@@ -1,5 +1,8 @@
-# -*- coding: utf-8 -*-
-"""@author: omerkocadayi"""
+""" -*- coding: utf-8 -*-
+    @author: omerkocadayi 
+    https://github.com/omerkocadayi
+    https://www.linkedin.com/in/omerkocadayi/ """
+
 """resimlerin saglikli olarak toplanabilmesi icin boyutlarinin denk olmasi gerekmektedir."""
 
 import cv2
