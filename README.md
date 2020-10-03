@@ -1,4 +1,6 @@
 Giriş Seviyesinden İleri Seviyeye Kadar Python ile Görüntü İşleme..
+Ek_Uygulamalar klasöründe de bolca örnek uygulama bulunmakta.
+Göz atmanızı tavsiye ederim.
 
 Giriş Seviyesi Örnekler : 01 - 02 ...... 08
 - Resim Açma - Resim Okuma - Resim Yazma
