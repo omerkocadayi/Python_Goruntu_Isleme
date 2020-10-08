@@ -20,6 +20,6 @@ Orta Seviye Örnekler :
 
 İleri Seviye Örnekler : 
 - Kenar Tespit Algoritmaları (Laplacian, Sobel, Canny)
-- Nesne Tespiti
+- HSV ile Nesne İzi Sürme
 - İnsan Yüz, Göz, Beden Tespiti
 - Yapay Zeka ile Yüz Tanıma vs. gibi örnek uygulamalar
