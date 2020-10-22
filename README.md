@@ -23,4 +23,5 @@ Orta Seviye Örnekler :
 - Hough Dönüşümleri
 - HSV ile Nesne İzi Sürme
 - İnsan Yüz, Göz, Beden Tespiti
-- Yapay Zeka ile Yüz Tanıma vs. gibi örnek uygulamalar
+- Nesne Algılama, Nesne Takibi
+- Araba Algılama, Sayma, Plaka Okuma
