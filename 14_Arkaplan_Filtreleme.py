@@ -6,8 +6,8 @@
 import cv2
 import numpy as np
 
-cap = cv2.VideoCapture("carr.mp4")
-cap2 = cv2.VideoCapture("carr.mp4")
+cap = cv2.VideoCapture("cars.mp4")
+cap2 = cv2.VideoCapture("cars.mp4")
 
 ret, firstFrame = cap.read()
 firstFrame = cv2.resize(firstFrame, (640,480))
