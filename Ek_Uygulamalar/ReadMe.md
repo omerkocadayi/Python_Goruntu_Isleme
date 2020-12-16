@@ -1,2 +1,2 @@
-Kodlar dışında eklemiş olduğum görseller, uygulamalara uygun görsellerdir.
-Resimleri/Videoları indirerek, programları onlarla beraber çalıştırmanızı tavsiye ederim.
+### *Uygulamalarda kullanılan fotoğraflar, resimler, videolar; 'media' klasörü içinde bulunuyor.
+### *Uygulamaya uygun medyayı kodun bulunduğu dizine indirip, o şekilde çalıştırınız.
