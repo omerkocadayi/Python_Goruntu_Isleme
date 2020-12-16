@@ -1,3 +1,6 @@
+### *Uygulamalarda kullanılan fotoğraflar, resimler, videolar; 'media' klasörü içinde bulunuyor.
+### *Uygulamaya uygun medyayı kodun bulunduğu dizine indirip, o şekilde çalıştırınız.
+
 Giriş Seviyesinden İleri Seviyeye Kadar Python ile Görüntü İşleme..
 Ek_Uygulamalar klasöründe de bolca örnek uygulama bulunmakta.
 Göz atmanızı tavsiye ederim.
